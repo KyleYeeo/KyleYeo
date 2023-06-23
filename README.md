@@ -9,9 +9,9 @@ Communication with the client is a crucial part of web development and I make it
 
 ### ❤ My Highlight Skills
 #### ✔ Languages
-JavaScript, TypeScript, Node.js, Python, C++, GraphQL
+JavaScript, TypeScript, PHP, Python, C++, GraphQL
 #### ✔ Frontend Development
-Vue.js, Vuex, Vue-Router, React.js, Redux, React-Query, jQuery, Ant-Design, Material-UI, Bootstrap, Responsive Web Development, Progressive Web Application
+React.js, Redux, Next.js Vue.js, Vuex, Vue-Router, Nuxt, React-Query, jQuery, Ant-Design, Material-UI, Bootstrap, Responsive Web Development, Progressive Web Application, Tailwind CSS
 #### ✔ Backend Development
 Node.js, Python, Django, GraphQL(Apollo), Laravel
 #### ✔ Databases
