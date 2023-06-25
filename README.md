@@ -1,7 +1,7 @@
 # Passionate MERN, MEVN Stack Developer
-## Hi, I am Evan Yeo 👋
+## Hi, I am Kalle Dorosh 👋
 <p>
-Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ years of professional experience in dynamic and deadline-driven work environments. 
+Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 8 years of professional experience in dynamic and deadline-driven work environments. 
 I am always trying harder to find new and more effective ways to solve problems.
 </p>
 I love working through all the stages of development and I place a lot of importance on DRY(Don't Repeat Yourself), well-documented, and easy to-maintain and scalable code.
