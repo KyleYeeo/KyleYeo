@@ -1,5 +1,5 @@
 # Passionate MERN, MEVN Stack Developer
-## Hi, I am Kalle Dorosh 👋
+## Hi, I am Kyle Yeo 👋
 <p>
 Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 8 years of professional experience in dynamic and deadline-driven work environments. 
 I am always trying harder to find new and more effective ways to solve problems.
